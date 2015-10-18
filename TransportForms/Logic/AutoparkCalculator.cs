@@ -17,7 +17,7 @@ namespace Logic
             foreach (AbstractTransport route in transport)
             {
                 if (route.Price != null)
-                    totalPrice = totalPrice - route.Price;
+                    totalPrice = totalPrice + route.Price;
             }
 
             return totalPrice;
