@@ -23,7 +23,7 @@ namespace TransportForms
 
             foreach (AbstractTransport route in transport)
             {
-                listBox1.Items.Add("Название транспорта: " + route.Name + "Маршрут: " + route.Way + "Стоимость поездки: " + route.Price);
+                listBox1.Items.Add("Название транспорта: " + route.Name + "; Маршрут: " + route.Way + "; Стоимость поездки: " + route.Price);
             }
             UpdateLength();
         }

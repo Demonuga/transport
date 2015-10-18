@@ -196,7 +196,7 @@ namespace TransportForms
             form1.listBox1.Items.Clear();
             foreach (AbstractTransport route in transport1)
             {
-                form1.listBox1.Items.Add("Название транспорта: " + route.Name + "Маршрут: " + route.Way + "Стоимость поездки: " + route.Price);
+                form1.listBox1.Items.Add("Название транспорта: " + route.Name + "; Маршрут: " + route.Way + "; Стоимость поездки: " + route.Price);
             }
             form1.UpdateLength();
             Close();
@@ -215,7 +215,7 @@ namespace TransportForms
             form1.listBox1.Items.Clear();
             foreach (AbstractTransport route1 in transport1)
             {
-                form1.listBox1.Items.Add("Название транспорта: " + route1.Name + "Маршрут: " + route1.Way + "Стоимость поездки: " + route1.Price);
+                form1.listBox1.Items.Add("Название транспорта: " + route1.Name + "; Маршрут: " + route1.Way + "; Стоимость поездки: " + route1.Price);
             }
             form1.UpdateLength();
             Close();
