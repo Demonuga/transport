@@ -1,0 +1,29 @@
+D:\Технологии программирования\Лабораторные\№4 Создание логики приложения\Music\Entities\bin\Debug\Entities.exe
+D:\Технологии программирования\Лабораторные\№4 Создание логики приложения\Music\Entities\bin\Debug\Entities.pdb
+D:\Технологии программирования\Лабораторные\№4 Создание логики приложения\Music\Entities\obj\x86\Debug\Entities.exe
+D:\Технологии программирования\Лабораторные\№4 Создание логики приложения\Music\Entities\obj\x86\Debug\Entities.pdb
+C:\Users\Admin\Desktop\Универ\Технологии программирования\Лабораторные\№4 Создание логики приложения\Music\Entities\obj\x86\Debug\Entities.exe
+C:\Users\Admin\Desktop\Универ\Технологии программирования\Лабораторные\№4 Создание логики приложения\Music\Entities\obj\x86\Debug\Entities.pdb
+C:\Users\Admin\Desktop\Универ\Технологии программирования\Лабораторные\№4 Создание логики приложения\Music\Entities\bin\Debug\Entities.exe
+C:\Users\Admin\Desktop\Универ\Технологии программирования\Лабораторные\№4 Создание логики приложения\Music\Entities\bin\Debug\Entities.pdb
+C:\Users\Admin\Desktop\Универ\Технологии программирования\Лабораторные\№4 Создание логики приложения\Music\Entities\obj\x86\Debug\Entities.csprojResolveAssemblyReference.cache
+D:\Технологии программирования\Лабораторные\№5 Знакомство с WinForms. Создание графического интерфейса\MusicForms\Entities\bin\Debug\Entities.exe
+D:\Технологии программирования\Лабораторные\№5 Знакомство с WinForms. Создание графического интерфейса\MusicForms\Entities\bin\Debug\Entities.pdb
+D:\Технологии программирования\Лабораторные\№5 Знакомство с WinForms. Создание графического интерфейса\MusicForms\Entities\obj\x86\Debug\Entities.csprojResolveAssemblyReference.cache
+D:\Технологии программирования\Лабораторные\№5 Знакомство с WinForms. Создание графического интерфейса\MusicForms\Entities\obj\x86\Debug\Entities.exe
+D:\Технологии программирования\Лабораторные\№5 Знакомство с WinForms. Создание графического интерфейса\MusicForms\Entities\obj\x86\Debug\Entities.pdb
+C:\Users\Sergazel\Desktop\Универ\Технологии программирования\Лабораторные\№5 Знакомство с WinForms. Создание графического интерфейса\MusicForms\Entities\bin\Debug\Entities.exe
+C:\Users\Sergazel\Desktop\Универ\Технологии программирования\Лабораторные\№5 Знакомство с WinForms. Создание графического интерфейса\MusicForms\Entities\bin\Debug\Entities.pdb
+C:\Users\Sergazel\Desktop\Универ\Технологии программирования\Лабораторные\№5 Знакомство с WinForms. Создание графического интерфейса\MusicForms\Entities\obj\x86\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Sergazel\Desktop\Универ\Технологии программирования\Лабораторные\№5 Знакомство с WinForms. Создание графического интерфейса\MusicForms\Entities\obj\x86\Debug\Entities.exe
+C:\Users\Sergazel\Desktop\Универ\Технологии программирования\Лабораторные\№5 Знакомство с WinForms. Создание графического интерфейса\MusicForms\Entities\obj\x86\Debug\Entities.pdb
+C:\Users\Алексей\Desktop\MusicForms\Entities\bin\Debug\Entities.exe
+C:\Users\Алексей\Desktop\MusicForms\Entities\bin\Debug\Entities.pdb
+C:\Users\Алексей\Desktop\MusicForms\Entities\obj\x86\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\MusicForms\Entities\obj\x86\Debug\Entities.exe
+C:\Users\Алексей\Desktop\MusicForms\Entities\obj\x86\Debug\Entities.pdb
+E:\Нужное\2 курс\Технологии программирования\TransportForms\Entities\obj\x86\Debug\Entities.exe
+E:\Нужное\2 курс\Технологии программирования\TransportForms\Entities\obj\x86\Debug\Entities.pdb
+E:\Нужное\2 курс\Технологии программирования\TransportForms\Entities\bin\Debug\Entities.exe
+E:\Нужное\2 курс\Технологии программирования\TransportForms\Entities\bin\Debug\Entities.pdb
+E:\Нужное\2 курс\Технологии программирования\TransportForms\Entities\obj\x86\Debug\Entities.csprojResolveAssemblyReference.cache

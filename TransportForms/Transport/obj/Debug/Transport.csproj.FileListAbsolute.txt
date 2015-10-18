@@ -1,0 +1,9 @@
+E:\Нужное\2 курс\Технологии программирования\TransportForms\Transport\bin\Debug\Transport.exe.config
+E:\Нужное\2 курс\Технологии программирования\TransportForms\Transport\bin\Debug\Transport.exe
+E:\Нужное\2 курс\Технологии программирования\TransportForms\Transport\bin\Debug\Transport.pdb
+E:\Нужное\2 курс\Технологии программирования\TransportForms\Transport\bin\Debug\Entities.exe
+E:\Нужное\2 курс\Технологии программирования\TransportForms\Transport\bin\Debug\Logic.exe
+E:\Нужное\2 курс\Технологии программирования\TransportForms\Transport\bin\Debug\Entities.pdb
+E:\Нужное\2 курс\Технологии программирования\TransportForms\Transport\bin\Debug\Logic.pdb
+E:\Нужное\2 курс\Технологии программирования\TransportForms\Transport\obj\Debug\Transport.exe
+E:\Нужное\2 курс\Технологии программирования\TransportForms\Transport\obj\Debug\Transport.pdb

@@ -1,0 +1,42 @@
+D:\Технологии программирования\Лабораторные\№4 Создание логики приложения\Music\Logic\obj\x86\Debug\Logic.csprojResolveAssemblyReference.cache
+D:\Технологии программирования\Лабораторные\№4 Создание логики приложения\Music\Logic\bin\Debug\Logic.exe
+D:\Технологии программирования\Лабораторные\№4 Создание логики приложения\Music\Logic\bin\Debug\Logic.pdb
+D:\Технологии программирования\Лабораторные\№4 Создание логики приложения\Music\Logic\bin\Debug\Entities.exe
+D:\Технологии программирования\Лабораторные\№4 Создание логики приложения\Music\Logic\bin\Debug\Entities.pdb
+D:\Технологии программирования\Лабораторные\№4 Создание логики приложения\Music\Logic\obj\x86\Debug\Logic.exe
+D:\Технологии программирования\Лабораторные\№4 Создание логики приложения\Music\Logic\obj\x86\Debug\Logic.pdb
+C:\Users\Admin\Desktop\Универ\Технологии программирования\Лабораторные\№4 Создание логики приложения\Music\Logic\bin\Debug\Logic.exe
+C:\Users\Admin\Desktop\Универ\Технологии программирования\Лабораторные\№4 Создание логики приложения\Music\Logic\bin\Debug\Logic.pdb
+C:\Users\Admin\Desktop\Универ\Технологии программирования\Лабораторные\№4 Создание логики приложения\Music\Logic\bin\Debug\Entities.exe
+C:\Users\Admin\Desktop\Универ\Технологии программирования\Лабораторные\№4 Создание логики приложения\Music\Logic\bin\Debug\Entities.pdb
+C:\Users\Admin\Desktop\Универ\Технологии программирования\Лабораторные\№4 Создание логики приложения\Music\Logic\obj\x86\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Универ\Технологии программирования\Лабораторные\№4 Создание логики приложения\Music\Logic\obj\x86\Debug\Logic.exe
+C:\Users\Admin\Desktop\Универ\Технологии программирования\Лабораторные\№4 Создание логики приложения\Music\Logic\obj\x86\Debug\Logic.pdb
+D:\Технологии программирования\Лабораторные\№5 Знакомство с WinForms. Создание графического интерфейса\MusicForms\Logic\bin\Debug\Logic.exe
+D:\Технологии программирования\Лабораторные\№5 Знакомство с WinForms. Создание графического интерфейса\MusicForms\Logic\bin\Debug\Logic.pdb
+D:\Технологии программирования\Лабораторные\№5 Знакомство с WinForms. Создание графического интерфейса\MusicForms\Logic\bin\Debug\Entities.exe
+D:\Технологии программирования\Лабораторные\№5 Знакомство с WinForms. Создание графического интерфейса\MusicForms\Logic\bin\Debug\Entities.pdb
+D:\Технологии программирования\Лабораторные\№5 Знакомство с WinForms. Создание графического интерфейса\MusicForms\Logic\obj\x86\Debug\Logic.csprojResolveAssemblyReference.cache
+D:\Технологии программирования\Лабораторные\№5 Знакомство с WinForms. Создание графического интерфейса\MusicForms\Logic\obj\x86\Debug\Logic.exe
+D:\Технологии программирования\Лабораторные\№5 Знакомство с WinForms. Создание графического интерфейса\MusicForms\Logic\obj\x86\Debug\Logic.pdb
+C:\Users\Sergazel\Desktop\Универ\Технологии программирования\Лабораторные\№5 Знакомство с WinForms. Создание графического интерфейса\MusicForms\Logic\bin\Debug\Logic.exe
+C:\Users\Sergazel\Desktop\Универ\Технологии программирования\Лабораторные\№5 Знакомство с WinForms. Создание графического интерфейса\MusicForms\Logic\bin\Debug\Logic.pdb
+C:\Users\Sergazel\Desktop\Универ\Технологии программирования\Лабораторные\№5 Знакомство с WinForms. Создание графического интерфейса\MusicForms\Logic\bin\Debug\Entities.exe
+C:\Users\Sergazel\Desktop\Универ\Технологии программирования\Лабораторные\№5 Знакомство с WinForms. Создание графического интерфейса\MusicForms\Logic\bin\Debug\Entities.pdb
+C:\Users\Sergazel\Desktop\Универ\Технологии программирования\Лабораторные\№5 Знакомство с WinForms. Создание графического интерфейса\MusicForms\Logic\obj\x86\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\Sergazel\Desktop\Универ\Технологии программирования\Лабораторные\№5 Знакомство с WinForms. Создание графического интерфейса\MusicForms\Logic\obj\x86\Debug\Logic.exe
+C:\Users\Sergazel\Desktop\Универ\Технологии программирования\Лабораторные\№5 Знакомство с WinForms. Создание графического интерфейса\MusicForms\Logic\obj\x86\Debug\Logic.pdb
+C:\Users\Алексей\Desktop\MusicForms\Logic\bin\Debug\Logic.exe
+C:\Users\Алексей\Desktop\MusicForms\Logic\bin\Debug\Logic.pdb
+C:\Users\Алексей\Desktop\MusicForms\Logic\bin\Debug\Entities.exe
+C:\Users\Алексей\Desktop\MusicForms\Logic\bin\Debug\Entities.pdb
+C:\Users\Алексей\Desktop\MusicForms\Logic\obj\x86\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\MusicForms\Logic\obj\x86\Debug\Logic.exe
+C:\Users\Алексей\Desktop\MusicForms\Logic\obj\x86\Debug\Logic.pdb
+E:\Нужное\2 курс\Технологии программирования\TransportForms\Logic\bin\Debug\Logic.exe
+E:\Нужное\2 курс\Технологии программирования\TransportForms\Logic\bin\Debug\Logic.pdb
+E:\Нужное\2 курс\Технологии программирования\TransportForms\Logic\bin\Debug\Entities.exe
+E:\Нужное\2 курс\Технологии программирования\TransportForms\Logic\bin\Debug\Entities.pdb
+E:\Нужное\2 курс\Технологии программирования\TransportForms\Logic\obj\x86\Debug\Logic.csprojResolveAssemblyReference.cache
+E:\Нужное\2 курс\Технологии программирования\TransportForms\Logic\obj\x86\Debug\Logic.exe
+E:\Нужное\2 курс\Технологии программирования\TransportForms\Logic\obj\x86\Debug\Logic.pdb

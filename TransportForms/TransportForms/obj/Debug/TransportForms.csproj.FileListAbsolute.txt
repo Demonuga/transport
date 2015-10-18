@@ -1,0 +1,16 @@
+E:\Нужное\2 курс\Технологии программирования\TransportForms\TransportForms\bin\Debug\TransportForms.exe.config
+E:\Нужное\2 курс\Технологии программирования\TransportForms\TransportForms\obj\Debug\TransportForms.csprojResolveAssemblyReference.cache
+E:\Нужное\2 курс\Технологии программирования\TransportForms\TransportForms\obj\Debug\TransportForms.Properties.Resources.resources
+E:\Нужное\2 курс\Технологии программирования\TransportForms\TransportForms\obj\Debug\TransportForms.csproj.GenerateResource.Cache
+E:\Нужное\2 курс\Технологии программирования\TransportForms\TransportForms\bin\Debug\TransportForms.exe
+E:\Нужное\2 курс\Технологии программирования\TransportForms\TransportForms\bin\Debug\TransportForms.pdb
+E:\Нужное\2 курс\Технологии программирования\TransportForms\TransportForms\bin\Debug\Entities.exe
+E:\Нужное\2 курс\Технологии программирования\TransportForms\TransportForms\bin\Debug\Logic.exe
+E:\Нужное\2 курс\Технологии программирования\TransportForms\TransportForms\bin\Debug\Transport.exe
+E:\Нужное\2 курс\Технологии программирования\TransportForms\TransportForms\bin\Debug\Entities.pdb
+E:\Нужное\2 курс\Технологии программирования\TransportForms\TransportForms\bin\Debug\Logic.pdb
+E:\Нужное\2 курс\Технологии программирования\TransportForms\TransportForms\bin\Debug\Transport.pdb
+E:\Нужное\2 курс\Технологии программирования\TransportForms\TransportForms\obj\Debug\TransportForms.Form1.resources
+E:\Нужное\2 курс\Технологии программирования\TransportForms\TransportForms\obj\Debug\TransportForms.Form2.resources
+E:\Нужное\2 курс\Технологии программирования\TransportForms\TransportForms\obj\Debug\TransportForms.exe
+E:\Нужное\2 курс\Технологии программирования\TransportForms\TransportForms\obj\Debug\TransportForms.pdb
